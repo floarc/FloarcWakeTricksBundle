@@ -10,7 +10,7 @@ class AppKernel extends Kernel
     {
         return array(
             new Symfony\Bundle\FrameworkBundle\FrameworkBundle(),
-            new Acme\StandaloneBundle\AcmeStandaloneBundle(),
+            new Floarc\WakeTricksBundle\FloarcWakeTricksBundle(),
         );
     }
 
