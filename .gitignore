@@ -1,0 +1,5 @@
+# File: .gitignore
+*~
+/Tests/app/cache
+/Tests/app/logs
+vendor
