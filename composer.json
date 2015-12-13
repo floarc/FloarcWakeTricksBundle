@@ -1,0 +1,16 @@
+{
+    "name": "FloarcWakeTricksBundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Floarc\\WakeTricksBundle\\": ""
+        }
+    },
+    "require": {
+        "symfony/http-kernel": "*"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": "*"
+    }
+}
