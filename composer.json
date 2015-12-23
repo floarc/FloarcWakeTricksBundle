@@ -8,9 +8,15 @@
         }
     },
     "require": {
-        "symfony/http-kernel": "*"
+        "symfony/http-kernel": "*",
+        "doctrine/orm": "*",
+        "doctrine/doctrine-bundle": "*",
+        "doctrine/doctrine-cache-bundle": "*"
     },
     "require-dev": {
-        "symfony/framework-bundle": "*"
+        "symfony/framework-bundle": "*",
+        "symfony/yaml": "^3.0",
+        "symfony/console": "^3.0",
+        "symfony/finder": "^3.0"
     }
 }

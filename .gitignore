@@ -2,4 +2,5 @@
 *~
 /Tests/app/cache
 /Tests/app/logs
+/Tests/app/*.db.cache
 vendor
